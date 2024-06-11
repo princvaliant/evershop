@@ -1,5 +1,5 @@
 {
-  "name": "evershop",
+  "name": "Dream",
   "script": "npm run start",
   "instances": "max",
   "autorestart": true,
