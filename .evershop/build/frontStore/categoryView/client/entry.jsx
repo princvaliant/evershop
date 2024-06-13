@@ -9,7 +9,7 @@ Area.defaultProps.components = {
     XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2F0YWxvZ1xwYWdlc1xmcm9udFN0b3JlXGNhdGVnb3J5Vmlld1xDYXRlZ29yeVZpZXcuanN4: {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2F0YWxvZ1xwYWdlc1xmcm9udFN0b3JlXGNhdGVnb3J5Vmlld1xDYXRlZ29yeVZpZXcuanN4',
       sortOrder: 10,
-      component: require('C:\\vscode\\project-template\\node_modules\\@evershop\\evershop\\src\\modules\\catalog\\pages\\frontStore\\categoryView\\CategoryView.jsx')
+      component: require('C:\\vscode\\project-template\\node_modules\\@evershop\\evershop\\src\\modules\\catalog\\pages\\frontStore\\categoryView\\categoryView.jsx')
     },
     'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2F0YWxvZ1xwYWdlc1xmcm9udFN0b3JlXGNhdGVnb3J5Vmlld1xHZW5lcmFsLmpzeA==': {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2F0YWxvZ1xwYWdlc1xmcm9udFN0b3JlXGNhdGVnb3J5Vmlld1xHZW5lcmFsLmpzeA==',
